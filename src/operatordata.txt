@@ -1,0 +1,747 @@
+ATTACKERS
+START
+Sledge
+Primaries
+M590A1, 11, 1, 1, 2
+L85A2, 12, 5, 3, 2
+Secondaries
+P226 MK 25, 1, 3, 1, 2
+Gadgets
+Frag Grenade, Stun Grenade, Impact EMP Grenade
+END
+START
+Thatcher
+Primaries
+AR33, 15, 5, 3, 2
+L85A2, 13, 5, 3, 2
+M590A1, 11, 1, 1, 2
+Secondaries
+P226 MK 25, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Ash
+Primaries
+G36C, 12, 6, 3, 2
+R4-C, 11, 6, 3, 2
+Secondaries
+M45 Meusoc, 1, 3, 1, 2
+5.7 USG, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Thermite
+Primaries
+M1014, 11, 1, 1, 2
+556XI, 15, 5, 3, 2
+Secondaries
+M45 Meusoc, 1, 3, 1, 2
+5.7 USG, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Stun Grenade
+END
+START
+Twitch
+Primaries
+F2, 12, 6, 1, 2
+417, 16, 3, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+P9, 1, 3, 1, 2
+LFP586, 1, 1, 1, 2
+Gadgets
+Claymore, Smoke Grenade
+END
+START
+Montagne
+Primaries
+Le Roc Shield
+Secondaries
+P9, 1, 3, 1, 2
+LFP586, 1, 1, 1, 2
+Gadgets
+Hard Breach Charge, Smoke Grenade, Impact EMP Grenade
+END
+START
+Glaz
+Primaries
+Ots-03, 9, 3, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Bearing 9, 11, 6, 1, 2
+Gadgets
+Smoke Grenade, Frag Grenade, Claymore
+END
+START
+Fuze
+Primaries
+Ballistic Shield, 1, 1, 1, 1
+6P41, 15, 5, 3, 2
+AK-12, 15, 5, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+GSH-18, 1, 3, 1, 2
+Gadgets
+Breach Charge, Hard Breach Charge, Smoke Grenade
+END
+START
+Blitz
+Primaries
+G52-Tactical Shield, 1, 1, 1, 1
+Secondaries
+P12, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Breach Charge
+END
+START
+IQ
+Primaries
+AUG A2, 15, 5, 1, 2
+552 Commando, 12, 6, 3, 2
+G8A1, 11, 5, 3, 2
+Secondaries
+P12, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Buck
+Primaries
+C8-SFW, 12, 6, 1, 2
+CAMRS, 16, 3, 1, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Stun Grenade, Hard Breach Charge
+END
+START
+Blackbeard
+MK17 CQB, 13, 6, 3, 2
+SR-25, 16, 3, 3, 2
+Secondaries
+D-50, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Claymore, Stun Grenade
+END
+START
+Capitao
+Primaries
+Para-308, 13, 6, 3, 2
+M249, 15, 4, 3, 2
+Secondaries
+PRB92, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Claymore, Hard Breach Charge
+END
+START
+Hibana
+Primaries
+Type-89, 15, 5, 3, 2
+SUPERNOVA, 11, 2, 1, 2
+Secondaries
+P229, 1, 3, 1, 2
+Bearing 9, 11, 6, 1, 2
+Gadgets
+Stun Grenade, Breach Charge
+END
+START
+Jackal
+Primaries
+C7E, 13, 5, 3, 2
+PDW9, 12, 6, 3, 2
+ITA12L, 11, 1, 1, 2
+Secondaries
+USP40, 1, 3, 1, 2
+ITA12S, 11, 1, 1, 2
+Gadgets
+Claymore, Smoke Grenade
+END
+START
+Ying
+T-95LSW, 15, 5, 3, 2
+SIX12, 11, 1, 1, 2
+Secondaries
+Q-929, 1, 3, 1, 2
+Gadgets
+Hard Breach Charge, Smoke Grenade
+END
+START
+Zofia
+LMG-E, 13, 5, 3, 2
+M782, 13, 5, 3, 2
+Secondaries
+RG15, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Dokkaebi
+Primaries
+Mk14 EBR, 16, 3, 3, 2
+BOSG.12.2, 15, 1, 3, 2
+Secondaries
+SMG-12, 11, 1, 3, 2
+C75 Auto, 1, 2, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Smoke Grenade, Flash Grenade, Impact EMP Grenade
+END
+START
+Lion
+Primaries
+V308, 15, 5, 3, 2
+417, 16, 3, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+LFP586, 1, 1, 1, 2
+P9, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Flash Grenade, Claymore, Impact EMP Grenade
+END
+START
+Finka
+Primaries
+Spear .308, 13, 6 ,3, 2
+6P41, 13, 5, 3, 2
+SASG-12, 11, 2, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+GSH-18, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Smoke Grenade, Stun Grenade
+END
+START
+Maverick
+Primaries
+AR-15.50, 16, 3, 3, 2
+M4, 13, 6, 3, 2
+Secondaries
+1911 TACOPS, 1, 3, 1, 2
+Gadgets
+Stun Grenade, Claymore
+END
+START
+Nomad
+Primaries
+AK-74M, 15, 5, 1, 2
+ARX200, 13, 5, 3, 2
+Secondaries
+.44 Mag Semi-Auto, 1, 1, 1, 2
+PRB92, 1, 3, 1, 2
+Gadgets
+Stun Grenade, Breach Charge
+END
+START
+Gridlock
+F90, 15, 6, 3, 2
+M249 SAW, 15, 4, 3, 2
+Secondaries
+Super Shorty, 11, 1, 1, 2
+SDP 9mm, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Smoke Grenade, Breach Charge, Impact EMP Grenade
+END
+START
+Nokk
+FMG-9, 12, 6, 1, 2
+SIX12 SD, 11, 1, 1, 2
+Secondaries
+5.7 USG, 1, 3, 1, 2
+D-50, 1, 3, 1, 2
+Secondaries
+Frag Grenade, Hard Breach Charge, Impact EMP Grenade
+END
+START
+Amaru
+G8A1, 15, 5, 3, 2
+SUPERNOVA, 11, 2, 1, 2
+Secondaries
+SMG-11, 11, 5, 3, 2
+ITA12S, 11, 1, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Hard Breach Charge, Stun Grenade
+END
+START
+Kali
+Primaries
+CSRX 300, 1, 1, 1, 1
+Secondaries
+SPSMG9, 11, 6, 1, 2
+C75 Auto, 1, 2, 1, 2
+P226 MK 25, 1, 3, 1, 2
+Gadgets
+Claymore, Breach Charge
+END
+START
+Iana
+Primaries
+ARX200, 11, 5, 3, 2
+G36C, 12, 6, 3, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+Gadgets
+Frag Grenade, Smoke Grenade
+END
+START
+Ace
+Primaries
+AK-12, 12, 5, 3, 2
+M1014, 11, 1, 1, 2
+Secondaries
+P9, 1, 3, 1, 2
+Gadgets
+Breach Charge, Claymore
+END
+START
+Zero
+Primaries
+SC3000K, 13, 6, 3, 2
+MP7, 12, 6, 1, 2
+Secondaries
+5.7 USG, 1, 1, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Hard Breach Charge, Claymore
+END
+START
+Flores
+Primaries
+AR33, 13, 5, 3, 2
+Sr-25, 16, 3, 3, 2
+Secondaries
+GSH-18, 1, 3, 1, 2
+Gadgets
+Stun Grenade, Claymore
+END
+START
+Osa
+Primaries
+556XI, 15, 5, 3, 2
+PDW9, 12, 6, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Claymore, Impact EMP Grenade
+END
+START
+Sens
+PrimariesraPrimaries, 2
+P0F-9, 13, 6, 3, 2
+417, 16, 3, 3, 2
+Secondaries
+SDP 9mm, 1, 3, 1, 2
+Gonne-6, 1, 1, 1, 1
+Gadgets
+Hard Breach Charge, Claymore
+END
+START
+Grim
+Primaries
+553 Commando, 13, 6, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+P229, 1, 3, 1, 2
+Bailiff 410, 1, 1, 1, 2
+Gadgets
+Breach Charge, Claymore, Hard Breach Charge
+END
+START
+Brava
+Primaries
+Para-308, 12, 6, 3, 2
+CAMRS, 16, 3, 3, 2
+Secondaries
+Super Shorty, 11, 1, 1, 2
+USP40, 1, 3, 1, 2
+Gadgets
+Smoke Grenade, Claymore
+END
+START
+Ram
+Primaries
+R4-C, 13, 6, 3, 2
+LMG-E, 13, 5, 3, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+ITA12S, 11, 1, 1, 2
+Gadgets
+Stun Grenade, Smoke Grenade
+END
+DEFENDERS
+START
+Smoke
+Primaries
+FMG-9, 12, 6, 1, 2
+M590A1, 11, 1, 1, 2
+Secondaries
+P226 MK 25, 1, 3, 1, 2
+SMG-11, 11, 6, 3, 2
+Gadgets
+Barbed Wire, Proximity Alarm
+END
+START
+Mute
+Primaries
+MP5K, 11, 6, 1, 2
+M590A1, 11, 1, 1, 2
+Secondaries
+P226 MK 25, 1, 3, 1, 2
+SMG-11, 11, 6, 3, 2
+Gadgets
+Nitro Cell, Bulletproof Camera
+END
+START
+Castle
+Primaries
+UMP45, 12, 6, 3, 2
+M1014, 11, 1, 1, 2
+Secondaries
+5.7 USG, 11, 3, 1, 2
+Super Shorty, 11, 1, 1, 2
+M45 Meusoc, 1, 3, 1, 2
+Gadgets
+Bulletproof Camera, Proximity Alarm
+END
+START
+Pulse
+Primaries
+M1014, 1, 1, 1, 2
+UMP45, 12, 6, 3, 2
+Secondaries
+M45 Meusoc, 1, 3, 1, 2
+5.7 USG, 1, 3, 1, 2
+Gadgets
+Nitro Cell, Deployable Shield, Observation Blocker
+END
+START
+Doc
+Primaries
+SG-CQB, 11, 1, 2, 2
+MP5, 12, 6, 3, 2
+P90, 12, 6, 1, 2
+Secondaries
+P9, 1, 3, 1, 2
+LFP586, 1, 1, 1, 2
+Bailiff 410, 1, 1, 1, 2
+Gadgets
+Bulletproof Camera, Barbed Wire
+END
+START
+Primaries
+P90, 12, 6, 1, 2
+MP5, 13, 6, 3, 2
+SG-CQB, 11, 1, 2, 2
+Secondaries
+LFP586, 1, 1, 1, 2
+P9, 1, 3, 1, 2
+Gadgets
+Proximity Alarm, Impact Grenade, Observation Blocker
+END
+START
+Kapkan
+Primaries
+9x19VSN,11, 6, 3, 2
+SASG-12, 11, 2, 3, 2
+Secondaries
+PMM, 1, 3, 1, 2
+GSH-18, 1, 3, 1, 2
+Gadgets
+Impact Grenade, Nitro Cell
+END
+START
+Tachanka
+Primaries
+DP27, 12, 1, 1, 1
+9x19VSN, 13, 6, 3, 2
+Secondaries
+GSH-18, 1, 3, 1, 2
+PMM, 1, 3, 1, 2
+Bearing 9, 11, 6, 1, 2
+Gadgets
+Barbed Wire, Deployable Shield, Proximity Alarm
+END
+START
+Jager
+Primaries
+M870, 11, 0, 0, 2
+416-C Carbine, 11, 6, 3, 2
+Secondaries
+P12, 1, 3, 1, 2
+Gadgets
+Bulletproof Camera, Observation Blocker
+END
+START
+Bandit
+Primaries
+MP7, 11, 6, 1, 2
+M870, 11, 1, 1, 2
+Secondaries
+P12, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Nitro Cell
+END
+START
+Frost
+Primaries
+Super 90, 11, 1, 1, 2
+9mm C1, 12, 6, 3, 2
+Secondaries
+MK1 9mm, 1, 3, 1, 2
+ITA12S, 11, 1, 1, 2
+Gadgets
+Bulletproof Camera, Deployable Shield
+END
+START
+Valkyrie
+Primaries
+MPX, 11, 6, 3, 2
+Spas-12, 11, 1, 1, 2
+Secondaries
+D-50, 1, 3, 1, 2
+Gadgets
+Impact Grenade, Nitro Cell
+END
+START
+Caveira
+Primaries
+M12, 11, 6, 1, 2
+Spas-15, 11, 1, 1, 2
+Secondaries
+Luison, 1, 1, 1, 2
+Gadgets
+Impact Grenade, Proximity Alarm, Observation Blocker
+END
+START
+Echo
+Primaries
+SUPERNOVA, 11, 2, 1, 2
+MP5SD, 12, 1, 3, 2
+Secondaries
+P229, 1, 3, 1, 2
+Bearing 9, 11, 6, 1, 2
+Gadgets
+Impact Grenade, Deployable Shield
+END
+START
+Mira
+Primaries
+Vector .45 ACP, 11, 6, 3, 2
+ITA12L, 11, 1, 1, 2
+Secondaries
+USP40, 1, 3, 1, 2
+ITA12S, 11, 1, 1, 2
+Gadgets
+Proximity Alarm, Nitro Cell
+END
+START
+Lesion
+Primaries
+SIX12 SD, 11, 1, 1, 2
+T-5 SMG, 11, 6, 3, 2
+Secondaries
+Q-929, 1, 3, 1, 2
+Super Shorty, 11, 1, 1, 2
+Gadgets
+Impact Grenade, Bulletproof Camera
+END
+START
+Ela
+Primaries
+Scorpion Evo 3 A1, 11, 5, 3, 2
+F0-12, 11, 3, 3, 2
+Secondaries
+RG15, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Deployable Shield, Observation Blocker
+END
+START
+Vigil
+Primaries
+K1A, 11, 6, 3, 2
+BOSG.12.2, 15, 1, 3, 2
+Secondaries
+C75 Auto, 1, 2, 1, 2
+SMG-12, 11, 1, 3, 2
+Gadgets
+Gadgets
+Bulletproof Camera, Impact Grenade
+END
+START
+Maestro
+Primaries
+ALDA 5.56, 12, 5, 2, 2
+ACS12, 13, 1, 3, 2
+Secondaries
+Bailiff 410, 1, 1, 1, 2
+Keratos, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Impact Grenade, Observation Blocker
+END
+START
+Alibi
+Primaries
+Mx4 Storm, 11, 6, 3, 2
+ACS12, 13, 1, 3, 2
+Secondaries
+Keratos, 1, 3, 1, 2
+Bailiff 410, 1, 1, 1, 2
+Gadgets
+Proximity Alarm, Observation Blocker
+END
+START
+Clash
+Primaries
+CCE Shield, 1, 1, 1, 1
+Secondaries
+Super Shorty, 11, 1, 1, 2
+SPSMG9, 11, 6, 1, 2
+P-10C, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Impact Grenade, Deployable Shield
+END
+START
+Kaid
+Primaries
+Aug A3, 11, 6, 3, 2
+TCSG12, 13, 2, 3, 2
+Secondaries
+.44 Mag Semi-Auto
+1, 1, 1, 2
+LFP586, 1, 1, 1, 2
+Gadgets
+Nitro Cell, Barbed Wire, Observation Blocker
+END
+START
+Mozzie
+Primaries
+Commando 9, 11, 6, 3, 2
+P10 Roni, 12, 6, 3, 2
+Secondaries
+SDP 9mm, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Nitro Cell
+END
+START
+Warden
+Primaries
+M590A1, 11, 1, 1, 2
+MPX, 12, 6, 3, 2
+Secondaries
+P-10C, 1, 3, 1, 2
+SMG-12, 11, 1, 3, 2
+Gadgets
+Deployable Shield, Nitro Cell, Observation Blocker
+END
+START
+Goyo
+Primaries
+Vector .45 ACP, 12, 6, 3, 2
+TCSG12TCSG12, 13, 2, 3, 2
+Secondaries
+P229, 1, 3, 1, 2
+Gadgets
+Proximity Alarm, Bulletproof Camera, Impact Grenade
+END
+START
+Wamai
+Primaries
+AUG A2, 11, 5, 1, 2
+MP5K, 12, 6, 1, 2
+Secondaries
+Keratos, 1, 3, 1, 2
+P12, 1, 3, 1, 2
+Gadgets
+Impact Grenade, Proximity Alarm
+END
+START
+Oryx
+Primaries
+T-5 SMG, 11, 6, 3, 2
+Spas-12, 11, 1, 1, 2
+Secondaries
+Bailiff 410, 1, 1, 1, 2
+USP40, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Proximity Alarm
+END
+START
+Melusi
+Primaries
+MP5, 11, 6, 3, 2
+Super 90, 11, 1, 1, 2
+Secondaries
+RG15, 1, 3, 1, 2
+Gadgets
+Bulletproof Camera, Impact Grenade
+END
+START
+Aruni
+Primaries
+P10 Roni, 12, 6, 3, 2
+Mk14 EBR, 12, 3, 3, 2
+Secondaries
+PRB92, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Bulletproof Camera
+END
+START
+Thunderbird
+Primaries
+Spear .308, 11, 6 ,3, 2
+Spas-15, 11, 1, 1, 2
+Bearing 9, 11, 6, 1, 2
+Q-929, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Bulletproof Camera
+END
+START
+Thorn
+Primaries
+UZK50GI, 12, 6, 3, 2
+M870, 11, 1, 1, 2
+Secondaries
+1911 TACOPS, 1, 3, 1, 2
+C75 Auto, 1, 2, 1, 2
+Gadgets, Deployable Shield, Barbed Wire
+END
+START
+Azami
+Primaries
+9x19VSN,11, 6, 3, 2
+ACS12, 12, 1, 3, 2
+Secondaries
+D-50, 1, 3, 1, 2
+Gadgets
+Barbed Wire, Impact Grenade
+END
+START
+Solis
+Primaries
+P90, 11, 6, 1, 2
+ITA12L, 11, 1, 1, 2
+Secondaries
+SMG-11, 11, 6, 3, 2
+Gadgets
+Impact Grenade, Bulletproof Camera
+END
+START
+Fenrir
+Primaries
+MP7, 11, 6, 1, 2
+SASG-12, 11, 2, 3, 2
+Secondaries
+Bailiff 410, 1, 1, 1, 2
+5.7 USG, 1, 3, 1, 2
+Gadgets
+Bulletproof Camera, Barbed Wire
+END
